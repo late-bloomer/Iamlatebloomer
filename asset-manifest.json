@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/iamlatebloomer/static/css/main.5f361e03.chunk.css",
+    "main.js": "/iamlatebloomer/static/js/main.772bcae1.chunk.js",
+    "main.js.map": "/iamlatebloomer/static/js/main.772bcae1.chunk.js.map",
+    "runtime-main.js": "/iamlatebloomer/static/js/runtime-main.ce99eb06.js",
+    "runtime-main.js.map": "/iamlatebloomer/static/js/runtime-main.ce99eb06.js.map",
+    "static/js/2.886465ae.chunk.js": "/iamlatebloomer/static/js/2.886465ae.chunk.js",
+    "static/js/2.886465ae.chunk.js.map": "/iamlatebloomer/static/js/2.886465ae.chunk.js.map",
+    "index.html": "/iamlatebloomer/index.html",
+    "precache-manifest.2423f6e69100174e55c5c7eee34f229c.js": "/iamlatebloomer/precache-manifest.2423f6e69100174e55c5c7eee34f229c.js",
+    "service-worker.js": "/iamlatebloomer/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/iamlatebloomer/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.886465ae.chunk.js.LICENSE.txt": "/iamlatebloomer/static/js/2.886465ae.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/iamlatebloomer/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce99eb06.js",
+    "static/js/2.886465ae.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.772bcae1.chunk.js"
+  ]
+}
