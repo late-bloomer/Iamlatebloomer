@@ -9,9 +9,9 @@ function App() {
     <div className="App">
       <h1>Sunn na Sun flower, sorry baba...</h1>
       <h2>Mai such mein baklol hu yaar...lad mujse per naraj nai...</h2>
-      <div style={{display: 'inline-flex'}}>
-      <img src={imgForU} alt="Girl in a jacket" width="300" height="300"/>
-      <img src={imgForU1} alt="Girl in a jacket" width="300" height="300"/>
+      <div style={{display: 'block'}}>
+      <img src={imgForU} alt="Girl in a jacket" width="600" height="300"/>
+      <img src={imgForU1} alt="Girl in a jacket" width="600" height="300"/>
       </div>
     </div>
   );
