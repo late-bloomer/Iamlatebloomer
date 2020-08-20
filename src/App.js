@@ -1,14 +1,18 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import imgForU from './moon.jpg';
+import imgForU from './sorry.jpg';
+import imgForU1 from './sorry2.jpg';
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello Sun flower, keep smiling</h1>
-      <h2> this is for u</h2>
-      <img src={imgForU} alt="Girl in a jacket" width="500" height="600"/>
+      <h1>Sunn na Sun flower, sorry baba...</h1>
+      <h2>Mai such mein baklol hu yaar...lad mujse per naraj nai...</h2>
+      <div style={{display: 'inline-flex'}}>
+      <img src={imgForU} alt="Girl in a jacket" width="300" height="300"/>
+      <img src={imgForU1} alt="Girl in a jacket" width="300" height="300"/>
+      </div>
     </div>
   );
 }
